@@ -2,7 +2,7 @@
 
 <div class="logo">Developer</div>
 
-![](images/tar.jpg)
+![](images/readme-img.jpg)
 
 <div class="content">
 
