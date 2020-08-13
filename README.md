@@ -25,9 +25,9 @@ Hello, my name is Tarcisio Valentim Araujo da Silva, I live in the capital of Go
 *   [![](images/facebook.png)](https://www.facebook.com/tarcisio.valentimaraujo)
 *   [![](images/twitter.png)](https://twitter.com/tarcisio_valent)
 *   [![](images/instagram.png)](https://www.instagram.com/devtvas/)
+*   [![](images/email.png)](mailto:tarcisio.jobs@outlook.com)
 
-[![](images/email.png)](mailto:tarcisio.jobs@outlook.com)</div>
-
+  </div>
 </div>
 
 [Get Started](https://github.com/TarcisioValentim)</div>
