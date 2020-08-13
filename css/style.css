@@ -96,7 +96,7 @@ section .content a {
 }
 
 .menuToggle.active {
-    background: #f60f20 url(/images/close.png);
+    background: #f60f20 url(images/close.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 25px;
