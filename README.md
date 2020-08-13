@@ -1,6 +1,6 @@
 <section>
 
-<div class="logo">Developer</div>
+
 
 ![](images/readme-img.png)
 
