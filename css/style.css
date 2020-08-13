@@ -87,7 +87,7 @@ section .content a {
     right: 0;
     width: 60px;
     height: 60px;
-    background: #f60f20 url(images/menu.png);
+    background: #f60f20 url("https://raw.githubusercontent.com/TarcisioValentim/js-portfolio-responsive/master/images/menu.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px;
