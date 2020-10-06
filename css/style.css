@@ -182,6 +182,20 @@ section .content a {
 
 /* // Dispositivos small (telefones em modo paisagem, ate 576px) */
 @media (max-width: 576px) {
+
+    section .content p {
+        color: #fff;
+        font-size: .77em;
+        margin: 20px 0 10px;
+    }
+
+    section .content h2 {
+        color: #fff;
+        font-size: 2em;
+        font-weight: 700;
+        line-height: 1.1em;
+    }
+
     .navigation.active {
         left: 100px;
     }
@@ -201,8 +215,8 @@ section .content a {
     section .bg {
         position: absolute;
         top: 0;
-        left: 150px;
-        width: 50%;
+        left: 0;
+        width: 100%;
         height: 100%;
         object-fit: cover;
         opacity: 0.5;
@@ -212,9 +226,8 @@ section .content a {
 
 /* // Dispositivos small (telefones em modo paisagem, com 576px ou mais) */
 @media (min-width: 576px) {
-    * {
-        font-size: small;
-    }
+
+
 
     .navigation.active {
         left: 400px;
@@ -245,45 +258,10 @@ section .content a {
 
 }
 
-/* // Dispositivos médios (tablets com 768px ou mais) */
-@media (max-width: 768px) {
-
-
-    section .content h2 {
-        font-size: 2.5em;
-    }
-
-    section .bg {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        opacity: 0.5;
-    }
-
-    section .logo {
-        top: 10px;
-        font-size: 1.5em;
-    }
-
-    .navigation.active {
-        left: 60%;
-        width: 35em;
-    }
-
-    .navigation ul li a {
-        font-size: 2em;
-    }
-}
 
 /* // Dispositivos médios (tablets com 768px ou mais) */
 @media (min-width: 768px) {
 
-    * {
-        font-size: small;
-    }
 
     section .content h2 {
         font-size: 2.5em;
@@ -297,6 +275,17 @@ section .content a {
         height: 100%;
         object-fit: cover;
         opacity: 0.5;
+    }
+
+    section .content a {
+        color: #fff;
+        background: #f60f20;
+        font-size: 1em;
+        margin: 20px 0;
+        font-weight: 500;
+        padding: 10px 30px;
+        display: inline-block;
+        text-decoration: none;
     }
 
     section .logo {
@@ -318,7 +307,7 @@ section .content a {
 @media (min-width: 992px) {
     section .content p {
         color: #fff;
-        font-size: 1.19em;
+        font-size: 1.1em;
         margin: 20px 0 10px;
     }
 
