@@ -339,10 +339,3 @@ section .content a {
         font-size: 2em;
     }
 }
-<<<<<<< HEAD
-}
-
-/* // Dispositivos extra large (desktops grandes com 1200px ou mais) */
-@media (min-width: 1200px) {}
-=======
->>>>>>> 817ee1faa6f4336fe71fde9c7fb3b93e40626929
