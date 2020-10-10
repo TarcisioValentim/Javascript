@@ -296,7 +296,7 @@ section .content a {
 
     .navigation.active {
         left: 60%;
-        width: 35em;
+        width: 25em;
     }
 
     .navigation ul li a {
