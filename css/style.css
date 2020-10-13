@@ -15,7 +15,11 @@ body {
     background: linear-gradient(180deg, rgba(43, 108, 206, 0) 4.17%, rgba(206, 141, 43, 0.79) 52.6%);
     /* background: #2b6cce; */
     /*background: #641b4e;*/
+<<<<<<< HEAD
     /* background-image: url('../images/home.jfif'); */
+=======
+    background-image: url('../images/home.jfif');
+>>>>>>> 0975031f32227d0e47e873830470ab1fe77fc822
 }
 
 .img {
@@ -392,7 +396,11 @@ section .content a {
 
     .navigation.active {
         left: 60%;
+<<<<<<< HEAD
         width: 23em;
+=======
+        width: 25em;
+>>>>>>> 0975031f32227d0e47e873830470ab1fe77fc822
     }
 
     .navigation ul li a {
@@ -441,4 +449,8 @@ section .content a {
     .navigation ul li a {
         font-size: 2em;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0975031f32227d0e47e873830470ab1fe77fc822
